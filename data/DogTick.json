@@ -4,15 +4,9 @@
     "author": "Mischief",
     "creators": ["Mischief"],
     "verifier": "Mischief",
-    "verification": "https://youtu.be/CJ6yEan5GKE",
+    "verification": "https://youtu.be/7w8tFbDiV6I",
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
-        {
-            "user": "Upsilony",
-            "link": "https://youtu.be/CJ6yEan5GKE",
-            "percent": 100,
-            "hz": 144
-        }
     ]
 }
