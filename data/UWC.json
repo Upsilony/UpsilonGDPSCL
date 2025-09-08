@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
+        {
+            "user": "FGFentertain",
+            "link": "https://youtu.be/FfEBX5OrDX0",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
