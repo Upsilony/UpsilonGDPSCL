@@ -106,7 +106,7 @@ export default {
                     <p>
                         Clicks are required. If no clicks appear in the recording, click counter label is required.
                         (Fake clicks or clicks mod is not allowed. Clicks should only come from your microphone.)
-                        (Mobile Taps, Mobile PLayers is included.)
+                        (Mobile Taps, Mobile Players is not required but need show taps.)
                     </p>
                     <p>
                         Raw footage is required. Your raw footage must be unedited.
