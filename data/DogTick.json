@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/7w8tFbDiV6I",
     "percentToQualify": "100",
     "records": [
+                {
+            "user": "clover",
+            "link": "https://youtu.be/o78fgFbnOZY",
+            "percent": 100,
+            "mobile": false
+        }
     ],
     "tags": ["Hard", "Fast Wave"]
 }
