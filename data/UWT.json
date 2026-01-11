@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/ppcTMKZ20KE?si=4vOUh3-qdytthxCb",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "ericzorua",
+            "link": "https://youtu.be/NmDHHdITwFc",
+            "percent": 100,
+            "mobile": false
+        }
     ],
     "tags": ["Upsilony Wave Copya", "Buffed"]
 }
