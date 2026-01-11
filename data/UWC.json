@@ -12,6 +12,18 @@
             "link": "https://youtu.be/uAHsCvjO7WI",
             "percent": 100,
             "mobile": false
+        },
+        {
+            "user": "AGIRA",
+            "link": "https://youtu.be/sBDUcoshUqs",
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "ericzorua",
+            "link": "https://www.youtube.com/watch?v=swR0-nml7Pg",
+            "percent": 100,
+            "mobile": false
         }
     ],
     "tags": ["Wave & Robot", "Old Top 1"]
